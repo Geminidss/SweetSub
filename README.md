@@ -16,7 +16,7 @@ SweetSub
 | Sarazanmai                                         |                           | さらざんまい                             | 11 集 [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Sarazanmai) |
 | Magia Record: Puella Magi Madoka Magica Side Story | 魔法纪录 魔法少女小圆外传 | マギアレコード 魔法少女まどか☆マギカ外伝 | 13 集正片 + 魔法报告SP [BD 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Magia%20Record) |
 | ID: INVADED                                        |                           | イド：インヴェイデッド                   | 13 集 [BD 字幕](https://github.com/tastysugar/SweetSub-source/tree/master/ID%20INVADED) |
-| Great Pretender                                    | 大欺诈师                  | グレートプリテンダー                     | 23 集 [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Great%20Pretender) |
+| Great Pretender                                    | 大欺诈师                  | グレートプリテンダー                     | 23 集 [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/GREAT%20PRETENDER) |
 | Akudama Drive                                      | 恶棍 DRIVE                | アクダマドライブ                         | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Akudama%20Drive) （已弃坑） |
 | Horimiya                                           | 堀与宫村                  | ホリミヤ                                 | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Horimiya) |
 | Wonder Egg Priority                                | 奇蛋物语                  | ワンダーエッグ・プライオリティ           | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Wonder%20Egg%20Priority) |
