@@ -21,6 +21,7 @@ SweetSub
 | Horimiya                                           | 堀与宫村                  | ホリミヤ                                 | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Horimiya) |
 | Wonder Egg Priority                                | 奇蛋物语                  | ワンダーエッグ・プライオリティ           | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Wonder%20Egg%20Priority) |
 | WIXOSS DIVA(A)LIVE                                 |                           |                                          | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/WIXOSS) |
+| VLADLOVE                                           |                           | ぶらどらぶ                               | [WEB 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/VLADLOVE) |
 
 
 
